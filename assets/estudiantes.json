@@ -1,0 +1,28 @@
+{
+  "estudiantes": [
+    {
+      "numerocontrol":"18760469",
+      "name":"Carlos Israel Godinez Luna",
+      "carrera":"Ing. Sistemas Computacionales",
+      "semestre":"8vo",
+      "phone": "6462694189",
+      "correo": "al18760469@ite.edu.mx"
+    },
+    {
+      "numerocontrol":"16760180",
+      "name":"Virginia Rosario Ramirez Velasco",
+      "carrera":"Ing. Sistemas Computacionales",
+      "semestre":"7mo",
+      "phone": "6461209858",
+      "correo": "al16760180@ite.edu.mx"
+    },
+    {
+      "numerocontrol":"18760165",
+      "name":"Dante Gonzalez Estrada",
+      "carrera":"Ing. Sistemas Computacionales",
+      "semestre":"8vo",
+      "phone": "6462562178",
+      "correo": "al18760165@ite.edu.mx"
+    }
+  ]
+}
