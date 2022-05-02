@@ -9,14 +9,6 @@
       "correo": "al18760469@ite.edu.mx"
     },
     {
-      "numerocontrol":"16760180",
-      "name":"Virginia Rosario Ramirez Velasco",
-      "carrera":"Ing. Sistemas Computacionales",
-      "semestre":"7mo",
-      "phone": "6461209858",
-      "correo": "al16760180@ite.edu.mx"
-    },
-    {
       "numerocontrol":"18760165",
       "name":"Dante Gonzalez Estrada",
       "carrera":"Ing. Sistemas Computacionales",
@@ -26,3 +18,4 @@
     }
   ]
 }
+
